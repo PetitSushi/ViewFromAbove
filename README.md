@@ -9,6 +9,6 @@ Supervisor: Dr. Justin Van Dijk, University College London
 
 In partnership with: Sainsbury's Ltd
 
-Keywords: Vehicle Detection; Parking Space Analysis; Retail; Satellite Imagery; Deep Learning; Machine Learning; Artificial Intelligence; YOLO; Computer Vision; Object Recognition.
+Keywords:  Satellite Imagery; Deep Learning; Artificial Intelligence; YOLO; Vehicle Detection; Parking Space Analysis. 
 
 Abstract: ?
