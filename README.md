@@ -1,4 +1,4 @@
-# A View From Above: Predicting car park occupancy rates from satellite images with a deep learning model
+# A View From Above: Predicting supermarket car parks' occupancy rates from satellite images with a deep learning model
 
 This repository gathers parts of a my work towards my MSc Research Project and Dissertation. It includes:
  - The satellite images I have collected from Google Earth
